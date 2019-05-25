@@ -1,0 +1,1 @@
+select u.name as "Nama Progammer" , count(s.user_id) as "jumlah skill" from users u join skill s on (u.id = s.user_id);
