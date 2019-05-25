@@ -1,5 +1,5 @@
 pengerjaan soal ini menggunakan bahasa pemrograman php dan database mysql..
-
+dibutuhkan apikasi xampp untuk menjalankan pada localhost
 
 Soal 1:
 
